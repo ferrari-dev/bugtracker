@@ -27,7 +27,7 @@ Welcome to the ferrari (mi4i) development bug tracker. You can post any issues y
 #### 1. How to install a custom rom?
 > Well, if you don't know how, you might be risking a [bricked device](https://en.wikipedia.org/wiki/Brick_(electronics)) but here are the steps:
 1. Download the fastboot binaries from [here](https://dl.google.com/android/repository/platform-tools-latest-windows.zip) - _Assuming you're on Windowz_ and extract it to an accesible location.
-2. Download TWRP from [here](https://www.androidfilehost.com/?fid=529152257862727167) and put it in the same location as the fastboot binaries.
+2. Download TWRP from [here](https://www.androidfilehost.com/?w=files&flid=181210) and put it in the same location as the fastboot binaries.
 3. Now boot into fastboot mode on your phone (power+vol up) and connect it to the computer.
 4. Open up command prompt in that folder (shift+right click) and type in `fastboot flash recovery twrp-3.1.0-0-ferrari.img` and wait until its completed. Now boot into your new recovery (power+vol down)
 5. Copy the rom zip file into your phone nd flash.
